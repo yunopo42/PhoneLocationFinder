@@ -1,0 +1,1 @@
+number = "+<countrycode><phone number>" #for example +9046856744
